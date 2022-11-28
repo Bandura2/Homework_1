@@ -1,2 +1,2 @@
 # Homework_1
-Створив клас Sneaker, додав клас SportShoesStore, який містить асортимент кросівок, методи для сортування взуття за ціною та можливість вивести топ найпопулярніших за кількістю проданих кросівок.
+Created a Sneaker class, added a SportShoesStore class that contains an assortment of sneakers, methods for sorting shoes by price, and the ability to display the top most popular sneakers by number of sales.
